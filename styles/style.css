@@ -95,7 +95,7 @@ span{
 }
 
 .apresentacao__links__link__imagem {
-    height: 32px;
+    height: 33px;
     width: 32px;
 }
 
@@ -170,4 +170,9 @@ span{
     .apresentacao__conteudo__titulo{
         font-size: 1.9rem;
     }
+
+    .apresentacao__links__link{
+        width: 60%;
+    }
+
 }
